@@ -1,7 +1,9 @@
 @echo off
 title Discord Message Remover by @hxr404#1765
-echo innerhalb von 10 Sekunden auf den Chat klicken, sonst passieren schlimme Dinge!!!
-echo und rechtzeitig schließen.
+echo You have 10 Seconds to click at the Chat, else bad things will happen!!!
+echo To stop the Programm, click at the cmd Window and press CTRL + C
+pause
+echo Go!!! It started!
 timeout 10 /nobreak
 :x
 cscript dcdelete.vbs
