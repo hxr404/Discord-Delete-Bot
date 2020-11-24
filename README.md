@@ -15,3 +15,5 @@ It just simulates Key presses, nothing more, it doesn't stop automatically
 Dont use it (or at your own risk), as it could be against the Discord ToS (No Self-Bots allowed)
 It could be allowed, but I don't think so
 Because of that I *didn't* test it, but if I *would* test it, it would work perfectly without errors.
+
+**Please Link to this repo if you distribute it**
