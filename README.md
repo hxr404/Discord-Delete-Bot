@@ -15,3 +15,8 @@ It just simulates Key presses, nothing more, it doesn't stop automatically
 Dont use it (or at your own risk), as it could be against the Discord ToS (No Self-Bots allowed)
 It could be allowed, but I don't think so
 Because of that I *didn't* test it, but if I *would* test it, it would work perfectly without errors.
+
+**About this branch**
+The standart Version has a short timeout, to make sure Discord handles all the Input, this Version doesn't have it.
+It only works in the Desktop Version of Discord, because Browsers are to slow. It's much faster than the master branch, but could also break your computer.
+Use it at your Onw risk!!!
